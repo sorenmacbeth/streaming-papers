@@ -1,7 +1,7 @@
 streaming-papers
 ================
 
-A curated collection of papers on streaming algoriothms
+A curated collection of papers on streaming algorithms
 
 ### Please Contribute
 
