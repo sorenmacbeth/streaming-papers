@@ -9,8 +9,9 @@ If you have papers you want to add, make a pull request. Categories are wide ope
 
 ### Distribution Functions
 
-*Dynamic Histograms: Capturing Evolving Data Sets*
-Donko Donjerkovic, Yannis Ioannidis, Raghu Ramakrishnan
+*Dynamic Histograms: Capturing Evolving Data Sets - Donko Donjerkovic, Yannis Ioannidis, Raghu Ramakrishnan*
+
 Known Implementations:
-* [https://github.com/bmizerany/perks/tree/histo](bmizerany/perks) - Go
-* [https://github.com/d2fn/shades-rb](d2fn/shades-rb) - Ruby
+* [bigmlcom/histogram](https://github.com/bigmlcom/histogram) - Clojure
+* [bmizerany/perks](https://github.com/bmizerany/perks/blob/histo/histogram/histogram.go) - Go
+* [d2fn/shades-rb](https://github.com/d2fn/shades-rb) - Ruby
