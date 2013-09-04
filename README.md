@@ -9,9 +9,22 @@ If you have papers you want to add, make a pull request. Categories are wide ope
 
 ### Distribution Functions
 
-*Dynamic Histograms: Capturing Evolving Data Sets - Donko Donjerkovic, Yannis Ioannidis, Raghu Ramakrishnan*
+===
+
+#### Dynamic Histograms: Capturing Evolving Data Sets - Donko Donjerkovic, Yannis Ioannidis, Raghu Ramakrishnan
+
+_distribution_functions/dynamic-histograms.pdf_
 
 Known Implementations:
 * [bigmlcom/histogram](https://github.com/bigmlcom/histogram) - Clojure
 * [bmizerany/perks](https://github.com/bmizerany/perks/blob/histo/histogram/histogram.go) - Go
 * [d2fn/shades-rb](https://github.com/d2fn/shades-rb) - Ruby
+
+===
+
+#### Effective Computation of Biased Quantiles over Data Streams: Cormode, Korn, Muthukrishnan, Srivastava
+
+_distribution_functions/bquant.pdf_
+
+Known Implementations:
+* [bmizerany/perks](https://github.com/bmizerany/perks/blob/histo/quantile/stream.go) - Go
