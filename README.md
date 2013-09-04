@@ -7,6 +7,17 @@ A curated collection of papers on streaming algorithms
 
 If you have papers you want to add, make a pull request. Categories are wide open right now, so just put in a folder that makes sense to you and we'll figure it out.
 
+### Distinct Value Counting
+
+===
+
+#### Data Streams as Random Permutations: the Distinct Element Problem - Helmi, Lumbroso, Martinez, Viola
+
+_distinct_value_counting/data_streams_as_random_permutations.pdf_
+
+Known Implementations:
+* [cscotta/recordinality](https://github.com/cscotta/recordinality) - Java
+
 ### Distribution Functions
 
 ===
