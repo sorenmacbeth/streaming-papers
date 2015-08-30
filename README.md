@@ -9,6 +9,11 @@ If you have papers you want to add, make a pull request. Categories are wide ope
 
 ### Distinct Value Counting
 
+_distinct_value_counting/Probabilistic_Multiplicity_Counting_-_Lieven2010a.pdf_
+
+Known Implementations
+* [seiflotfy/pmc](https://github.com/seiflotfy/pmc) - Go
+
 ===
 
 #### Data Streams as Random Permutations: the Distinct Element Problem - Helmi, Lumbroso, Martinez, Viola
