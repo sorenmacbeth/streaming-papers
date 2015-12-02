@@ -13,6 +13,7 @@ _distinct_value_counting/Probabilistic_Multiplicity_Counting_-_Lieven2010a.pdf_
 
 Known Implementations
 * [seiflotfy/pmc](https://github.com/seiflotfy/pmc) - Go
+* [sorenmacbeth/runpmc](https://github.com/sorenmacbeth/runpmc) - Clojure
 
 ===
 
