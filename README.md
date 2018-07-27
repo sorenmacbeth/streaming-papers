@@ -39,9 +39,32 @@ Known Implementations:
 
 ===
 
+#### The P<sup>2</sup> Algorithm for Dynamic Calculation of Quantiles and Histograms Without Storing Observations - Raj Jain, IMRICH CHLAMTAC
+
+_distribution_functions/psqr.pdf_
+
+Known Implementations:
+* [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/rstat.html#quantiles) - C
+* [scassidy/livestats](https://bitbucket.org/scassidy/livestats) (bitbucket) - Python
+* [absmall/p2](https://github.com/absmall/p2) - C++
+* [jacksonicson/psquared](https://github.com/jacksonicson/psquared) - java
+
+===
+
 #### Effective Computation of Biased Quantiles over Data Streams: Cormode, Korn, Muthukrishnan, Srivastava
 
 _distribution_functions/bquant.pdf_
 
 Known Implementations:
 * [bmizerany/perks](https://github.com/bmizerany/perks/blob/histo/quantile/stream.go) - Go
+
+===
+
+### Summary Statistics
+
+#### Formulas for Robust, One-Pass Parallel Computation of Covariances and Arbitrary-Order Statistical Moments - Pilippe Pebay
+
+_Summary Statistics/one_pass_moments_Pebay.pdf_
+
+Known Implementations:
+[Kitware/VTK](https://github.com/Kitware/VTK/) (mirror) - C++ (check in [filters/statistics/vtkStatisticsAlgorithm.h](https://github.com/Kitware/VTK/blob/master/Filters/Statistics/vtkStatisticsAlgorithm.h))
